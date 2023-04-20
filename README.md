@@ -1,7 +1,5 @@
 # Olá mundo!
- Meu primeiro projeto de versionamento
- Aulas online
- vou adicionar nova linha
-ssss
-olá
-como vai
+
+Num | nome | nota 
+---|---|---
+1|Inussa|13
